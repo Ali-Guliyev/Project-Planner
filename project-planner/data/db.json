@@ -1,22 +1,22 @@
 {
   "projects": [
     {
-      "id": 1,
-      "title": "Create new homepage banner",
-      "details": "Lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsumlorem ipsum lorem ipsum lorem ipsum.",
-      "complete": true
-    },
-    {
-      "id": 2,
-      "title": "Make marketing email",
-      "details": "Lorem ipsum",
-      "complete": false
-    },
-    {
-      "title": "Update the Promo Links",
-      "details": "Make sure all the promo links and coupon codes are up to date!!!!!",
+      "title": "Create a new website",
+      "details": "Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, ",
       "complete": true,
-      "id": 5231
+      "id": 17
+    },
+    {
+      "title": "Create a VR game game 🎮!",
+      "details": "Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, Lorem ipsum, ",
+      "complete": false,
+      "id": 6768
+    },
+    {
+      "title": "1231231",
+      "details": "12312312313123",
+      "complete": false,
+      "id": 8121
     }
   ]
 }
